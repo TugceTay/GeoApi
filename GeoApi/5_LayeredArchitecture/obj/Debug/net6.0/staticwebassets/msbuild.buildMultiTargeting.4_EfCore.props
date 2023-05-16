@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\4_EfCore.props" />
+</Project>

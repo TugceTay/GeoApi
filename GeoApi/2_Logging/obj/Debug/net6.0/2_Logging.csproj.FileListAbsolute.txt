@@ -1,0 +1,68 @@
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\appsettings.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\appsettings.Production.Development.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.exe
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.deps.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.runtimeconfig.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.csproj.AssemblyReference.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.AssemblyInfoInputs.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.AssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.csproj.CoreCompileInputs.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets\msbuild.2_Logging.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets\msbuild.build.2_Logging.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.2_Logging.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.2_Logging.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\scopedcss\bundle\2_Logging.styles.css
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.csproj.CopyComplete
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\refint\2_Logging.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.genruntimeconfig.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\2_Logging\obj\Debug\net6.0\ref\2_Logging.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\appsettings.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\appsettings.Production.Development.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.exe
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.deps.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.runtimeconfig.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\2_Logging.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.csproj.AssemblyReference.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.AssemblyInfoInputs.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.AssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.csproj.CoreCompileInputs.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets\msbuild.2_Logging.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets\msbuild.build.2_Logging.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.2_Logging.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.2_Logging.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\scopedcss\bundle\2_Logging.styles.css
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.csproj.CopyComplete
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\refint\2_Logging.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\2_Logging.genruntimeconfig.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\2_Logging\obj\Debug\net6.0\ref\2_Logging.dll

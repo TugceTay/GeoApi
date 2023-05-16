@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hx5tD2ydCuqW6y/FPJPgPCHu6K474IHc2xQCoPkcS8v/inA5XcGH7BOVhDV3VreEu6TVBTiGOK/1d7lhIQWYQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tugcetay\\Desktop\\notes\\GeoApi\\GeoApi\\1_emptyTemplate\\1_emptyTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tugcetay\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tugcetay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\tugcetay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\tugcetay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\5_LayeredArchitecture.props" />
+</Project>

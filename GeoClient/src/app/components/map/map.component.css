@@ -1,0 +1,48 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+}
+
+.sidebar-content {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-navy {
+  background-color: #0E2127;
+  color: white;
+}
+
+
+.form-check {
+  display: flex;
+  align-items: left; 
+  width:150px;
+ 
+}
+
+.form-check-input {
+  margin-left:100px;
+}
+
+.form-check-label {
+  color: rgb(0, 0, 0);
+}
+.dropdown-menu {
+  right: 0;
+
+}
+
+

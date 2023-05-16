@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GgqP15r+BmvS4SWP2RO5D5hnSOVlb+jgSetDT9JaPBN6W+D4jGs3t6hkrFHZnP2aBBIL5yGkDtAqUG5juL+brQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tugcetay\\Desktop\\notes\\GeoApi\\GeoApi\\2_Logging\\2_Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tugcetay\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tugcetay\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tugcetay\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tugcetay\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tugcetay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tugcetay\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

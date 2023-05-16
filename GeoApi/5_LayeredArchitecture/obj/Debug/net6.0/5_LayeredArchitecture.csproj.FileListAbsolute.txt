@@ -1,0 +1,255 @@
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.exe
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.deps.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.runtimeconfig.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.AssemblyReference.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.AssemblyInfoInputs.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.AssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.5_LayeredArchitecture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.build.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\scopedcss\bundle\5_LayeredArchitecture.styles.css
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.CopyComplete
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\refint\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.genruntimeconfig.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\ref\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Entities.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Entities.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Repositories.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Repositories.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Presentation.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Services.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Presentation.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Services.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.exe
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.deps.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.runtimeconfig.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Entities.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Presentation.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Repositories.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Services.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Entities.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Presentation.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Repositories.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Services.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.AssemblyReference.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.AssemblyInfoInputs.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.AssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.5_LayeredArchitecture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.build.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\scopedcss\bundle\5_LayeredArchitecture.styles.css
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.CopyComplete
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\refint\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.pdb
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.genruntimeconfig.cache
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\ref\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.IO.PostGis.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.exe
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.deps.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.runtimeconfig.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.IO.PostGis.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Entities.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Presentation.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Repositories.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Services.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Entities.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Presentation.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Repositories.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Services.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.AssemblyReference.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.AssemblyInfoInputs.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.AssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.5_LayeredArchitecture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.build.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\scopedcss\bundle\5_LayeredArchitecture.styles.css
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.CopyComplete
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\refint\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.genruntimeconfig.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\ref\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.Features.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.IO.GeoJSON.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\GeoJSON.Net.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\appsettings.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.exe
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.deps.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.runtimeconfig.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\5_LayeredArchitecture.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\GeoJSON.Net.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.Features.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.IO.GeoJSON.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.IO.PostGis.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Entities.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Presentation.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Repositories.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Services.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Entities.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Presentation.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Repositories.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Services.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.AssemblyReference.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.AssemblyInfoInputs.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.AssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.5_LayeredArchitecture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.build.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5_LayeredArchitecture.props
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\scopedcss\bundle\5_LayeredArchitecture.styles.css
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.csproj.CopyComplete
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\refint\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.pdb
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\5_LayeredArchitecture.genruntimeconfig.cache
+C:\Users\tugcetay\Desktop\notes\Yeni klasör\GeoAp5\GeoAp4\GeoApi\5_LayeredArchitecture\obj\Debug\net6.0\ref\5_LayeredArchitecture.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\GeoJSON.Net.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.Features.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.IO.GeoJSON.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\NetTopologySuite.IO.PostGis.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
+C:\Users\tugcetay\Desktop\notes\GeoApi\GeoApi\5_LayeredArchitecture\bin\Debug\net6.0\Npgsql.NetTopologySuite.dll
